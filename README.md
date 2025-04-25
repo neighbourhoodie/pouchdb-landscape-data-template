@@ -8,6 +8,8 @@ Template for a local-first landscape technology data repo.
 2. If there's already sample data for your technology, head over to the [temporary-technology-info](https://github.com/localfirstfm/local-first-landscape/tree/main/temporary-technology-info) folder and copy the `data.js` file to your repo.
 3. If there's no sample data, just start filling things out in `data.js`.
 4. Run `npm install` to install the schema dependency. In your IDE, you should now get type safety for the data you're adding.
+5. Replace `logo.dark.svg` and `logo.light.svg` with a light mode and dark mode version of your logo.
+6. Update the `details.md` with a few details about your technology.
 
 ## How to preview my `data.js`?
 
