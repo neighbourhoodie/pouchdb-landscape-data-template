@@ -1,15 +1,19 @@
-# SuperSync
+# PouchDB
 
-SuperSync is a cool way to sync your data.
+The Database that Syncs!
+
+PouchDB is an open-source JavaScript database inspired by Apache CouchDB that is designed to run well within the browser.
 
 ## Features
 
-- **SuperSync**: Sync your data with ease.
-- **Local-first**: Your data is stored locally, ensuring privacy and security.
-- **Cross-platform**: Works on all major platforms.
-- **Open-source**: The code is available for anyone to use and contribute to.
-- **Community-driven**: Join our community and help us improve the project.
+- **Cross Browser**: Works in Firefox, Chrome, Opera, Safari, IE and Node.js.
+- **Lightweight**: PouchDB is just a script tag and 46KB (gzipped) away in the browser, or $ npm install pouchdb away in Node.
+- **Easy to Learn**: Requires some programming knowledge, however PouchDB is a piece of cake to learn.
+- **Open Source**: Everything is developed out in the open on GitHub, contributors always welcome!
 
 ## More info
 
+ [Website](https://pouchdb.com/)
+ [Documentation](https://pouchdb.com/api.html)
+ [Github](https://github.com/pouchdb/pouchdb)
 ...
